@@ -1,0 +1,46 @@
+body{
+  background: #f5d9f5;
+  font-family: "nunito",sans-serif;
+}
+#n1 .navbar-brand{
+  color:	#FF00FF;
+  font-size: 1.5rem;
+  weight:150;
+}
+#n1 .nav-link{
+
+  weight:150;
+  color:#3CB371;
+}
+#n1 .nav-link:hover{
+  color:red;
+}
+#n1 {
+  color: #FAF0E6;
+}
+#m1{
+   margin-left: 50rem ;
+}
+.jumbotron{
+  background: url(jumbo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+h1{
+  color: #FFA500;
+}
+list-group-item{
+  color: #FFC0CB;
+  background: red;
+}
+#k{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top {
+
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
